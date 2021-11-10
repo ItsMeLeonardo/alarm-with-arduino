@@ -1,0 +1,6 @@
+Aqui van los archivos de proteus
+- Especifiquen las librerias usadas
+  - lib1 Name ()
+  - lib1 Name ()
+  - lib1 Name ()
+  - ...
