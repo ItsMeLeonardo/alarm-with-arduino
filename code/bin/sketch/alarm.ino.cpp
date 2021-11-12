@@ -1,8 +1,15 @@
+#include <Arduino.h>
+#line 1 "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\alarm.ino"
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(11, 10, 9, 8, 7, 6);
 int val;
 int tempPin = 1;
 
+#line 6 "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\alarm.ino"
+void setup();
+#line 19 "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\alarm.ino"
+void loop();
+#line 6 "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\alarm.ino"
 void setup()
 {
   lcd.begin(16, 2);
@@ -67,3 +74,4 @@ void loop()
   }
   delay(200);
 }
+

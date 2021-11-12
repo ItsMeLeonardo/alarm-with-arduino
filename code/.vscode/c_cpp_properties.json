@@ -18,6 +18,7 @@
             "includePath": [
                 "E:\\University\\arduino\\arduino-1.8.16\\hardware\\arduino\\avr\\cores\\arduino",
                 "E:\\University\\arduino\\arduino-1.8.16\\hardware\\arduino\\avr\\variants\\standard",
+                "E:\\University\\arduino\\arduino-1.8.16\\libraries\\LiquidCrystal\\src",
                 "e:\\university\\arduino\\arduino-1.8.16\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "e:\\university\\arduino\\arduino-1.8.16\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "e:\\university\\arduino\\arduino-1.8.16\\hardware\\tools\\avr\\avr\\include"

@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\University\\arduino\\arduino-1.8.16\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\University\\arduino\\arduino-1.8.16\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\bin\\sketch\\alarm.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "E:\\University\\arduino\\arduino-1.8.16\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "e:\\University\\Ciclo IV\\electronic\\project\\code-circuit\\code\\bin\\sketch\\alarm.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\University\\arduino\\arduino-1.8.16\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
