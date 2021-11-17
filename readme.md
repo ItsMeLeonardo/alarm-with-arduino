@@ -24,6 +24,8 @@ _[Arduino + VScode + Proteus](https://www.youtube.com/watch?v=q_gl2C0LwNE&t=482s
 
 Pendiente...
 
+- [🪐Abrir con Proteus](https://github.com/ItsMeLeonardo/alarm-with-arduino/blob/main/simulation/ProyectoProteus.pdsprj.zip)
+
 ---
 
 ## Autores ✒️
